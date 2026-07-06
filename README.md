@@ -1,4 +1,4 @@
-# Online-Appointment-Booking-Platform
+# Online-Appointment-Booking-Platform  ( MediBook )
 
 📅 Online Appointment Booking Platform
 > A full-stack web application for real-time appointment scheduling with role-based dashboards, secure authentication, and cloud deployment on AWS EC2.
@@ -13,11 +13,11 @@
 Layer	Repository	Tech Stack
 🔙 Backend	appointment-booking-backend	Java, Spring Boot, MySQL, JWT
 
-[Backend Repo](https://github.com/Shivam-Mishra-0/MediBook-Backend)
+[Medibook Backend Repo](https://github.com/Shivam-Mishra-0/MediBook-Backend)
 
 🖥️ Frontend	appointment-booking-frontend	React.js, Axios, CSS
 
-[Frontend Repo](https://github.com/Shivam-Mishra-0/MediBook-Frontend)
+[Medibook Frontend Repo](https://github.com/Shivam-Mishra-0/MediBook-Frontend)
 
 ---
 🌐 Live Demo
